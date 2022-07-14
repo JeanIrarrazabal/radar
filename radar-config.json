@@ -1,0 +1,449 @@
+{
+    "dateRadar": "Junio 2020",
+    "radiusDiminish": 1.3,
+    "width": "500",
+    "cavanWwith": "800",
+    "entries": [
+        {
+            "quadrant": "Agile Technics",
+            "ring": "adopt",
+            "name": "Metricas DF"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "adopt",
+            "name": "Radar de equipos de alto rendimiento"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "adopt",
+            "name": "PI planning"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "adopt",
+            "name": "Tecnicas de Priorizacion"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "adopt",
+            "name": "Estimacion agil en equipo"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "adopt",
+            "name": "Inception"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "adopt",
+            "name": "Lean Change Management"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "hold",
+            "name": "Team Building"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "hold",
+            "name": "DoD & DoR"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "hold",
+            "name": "Acuerdos de trabajo"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "hold",
+            "name": "Escala de estimacion definida por el equipo"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "hold",
+            "name": "Historias de usuario en Jira"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "hold",
+            "name": "Principios de agilidad"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "hold",
+            "name": "User Story Mapping"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "trial",
+            "name": "Desing Thinking"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "trial",
+            "name": "Desing Sprint"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "trial",
+            "name": "Kudos"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "trial",
+            "name": "OKRs"
+        },
+        {
+            "quadrant": "Agile Technics",
+            "ring": "drop",
+            "name": "Elm",
+            "link": "https://elm-lang.org/"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "adopt",
+            "name": "GitLab (Repos)",
+            "link": "https://gitlab.falabella.com"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "adopt",
+            "name": "jenkins.fif.tech",
+            "link": "https://jenkins.fif.tech"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "adopt",
+            "name": "Cookiecutter de deployment",
+            "link": "https://confluence.falabella.com/display/DX/CookieCutter+de+Despliegue"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "adopt",
+            "name": "Sherpa Digital Factory",
+            "link": "https://confluence.falabella.com/display/DX/El+Sherpa+FIF"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "adopt",
+            "name": "Sherpa IS",
+            "link": "https://confluence.falabella.com/display/DX/CookieCutter+de+Despliegue",
+            "tooltip": "Sherpa Infrastructure & Services"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "adopt",
+            "name": "Jira Corporativo",
+            "link": "https://jira.falabella.com"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "adopt",
+            "name": "Confluence Corporativo",
+            "link": "https://confluence.falabella.com"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "adopt",
+            "name": "Contentful"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "adopt",
+            "name": "Datadog",
+            "link":"https://confluence.falabella.tech/display/CMMAPIs/Como+usar+Datadog"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "hold",
+            "name": "DevOps Bot de Slack"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "hold",
+            "name": "Docker"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "hold",
+            "name": "ELK"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "hold",
+            "name": "Kong"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "trial",
+            "name": "Cookiecutter",
+            "link": "https://cookiecutter.readthedocs.io/en/1.7.2"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "drop",
+            "name": "Bitbucket",
+            "link": "https://bitbucket.org/"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "drop",
+            "name": "jenkins.fif.cloud",
+            "link": "https://jenkins.fif.cloud/"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "drop",
+            "name": "Jira CLoud Falabella Fif",
+            "link": "https://falabellafif.atlassian.net/"
+        },
+        {
+            "quadrant": "Tools & services",
+            "ring": "drop",
+            "name": "Confluence CLoud Falabella Fif",
+            "link": "https://falabellafif.atlassian.net/wiki/"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "adopt",
+            "name": "Cypress"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "adopt",
+            "name": "Angular >9",
+            "description": "Aplicaciones DF: Front clientes (portafolio Crecer en clientes) - Seguro de desempleo y Soap Chile (portafolio Seguros) - Sitio privado BFCL, BFPE (portafolio Cross) - Pago rapido creditos (portafolio Financiamiento Seller)",
+            "link":"https://confluence.falabella.tech/pages/viewpage.action?pageId=223257529"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "adopt",
+            "name": "Next",
+            "description": "Aplicaciones del sitio publico"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "adopt",
+            "name": "React",
+            "description": "Aplicaciones del seguros"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "adopt",
+            "name": "Vue",
+            "description": "Aplicaciones del seguros"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "adopt",
+            "name": "Nuxt",
+            "description": "Aplicaciones del seguros"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "adopt",
+            "name": "Grafana",
+            "link": "https://grafana.fif.tech/"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "Test Cafe"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "Jest"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "ESLint"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "Node >= 12"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "Redux/NGRX"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "Stubby"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "Gin (go)"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "Goconvey"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "Go-SqlMock"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "gRPC"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "dig (go)"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "Express"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "Dagger(Android)"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "Coroutines(Kotlin)"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "SwiftLint"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "Axios"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "hold",
+            "name": "Typescript"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "trial",
+            "name": "Jaeger"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "trial",
+            "name": "Deno"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "trial",
+            "name": "Hilt(android)"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "trial",
+            "name": "flow (kotlin)"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "trial",
+            "name": "AndroidLint"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "trial",
+            "name": "Certicate Pinning (Cloudfare)"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "trial",
+            "name": "Apollo"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "drop",
+            "name": "Request"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "drop",
+            "name": "Request promise"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "drop",
+            "name": "Angular < 8"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "drop",
+            "name": "JACOCO"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "drop",
+            "name": "Joy"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "drop",
+            "name": "Android Support"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "drop",
+            "name": "Node < 12"
+        },
+        {
+            "quadrant": "Languages & Frameworks",
+            "ring": "drop",
+            "name": "ApacheHttp"
+        },
+        {
+            "quadrant": "Communication",
+            "ring": "adopt",
+            "name": "Discourse",
+            "link": "https://discourse.fif.tech"
+        },
+        {
+            "quadrant": "Communication",
+            "ring": "adopt",
+            "name": "Microsoft Teams"
+        },
+        {
+            "quadrant": "Communication",
+            "ring": "adopt",
+            "name": "Workshops de comunicación efectiva"
+        },
+        {
+            "quadrant": "Communication",
+            "ring": "adopt",
+            "name": "Newsletter con ingresos / egresos, cumpleaños y novedades de proyectos",
+            "tooltip": "Newsletter con ingresos / egresos, cumpleaños y novedades de proyectos"
+        },
+        {
+            "quadrant": "Communication",
+            "ring": "adopt",
+            "name": "Feedbacks entre compañeros"
+        },
+        {
+            "quadrant": "Communication",
+            "ring": "adopt",
+            "name": "Workplace",
+            "link": "https://work.facebook.com/"
+        },
+        {
+            "quadrant": "Communication",
+            "ring": "hold",
+            "name": "Confluence",
+            "link": "https://confluence.falabella.com/"
+        }
+    ]
+}
